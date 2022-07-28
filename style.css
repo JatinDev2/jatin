@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+SA+Beginner:wght@700&family=Manrope&family=Roboto:wght@100&display=swap');
+.container{
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+width: 80%;
+margin: auto;
+font-family: 'Manrope', sans-serif;
+}
+.manage{
+    font-size: 70px;
+    font-family: 'Manrope', sans-serif;
+}
+.mybooking{
+    font-size: 97px;
+    font-family: 'Manrope', sans-serif;
+    color: goldenrod;
+}
+.para{
+    margin: 33px 0px;
+}
+.form1{
+    margin: 0px 317px;
+
+}
+.form{
+width: 698px;
+height: 40px;
+border-radius: 7px;
+
+}
+button{
+height: 62px;
+width: 207px;
+font-size: 20px;
+font-weight: bolder;
+background-color: goldenrod;
+cursor: pointer;
+border-radius: 7px;
+}
+.button{
+display: flex;
+justify-content: end;
+margin: 37px 0px;
+}
+.button1{
+    display: flex;
+    justify-content: center;
+    margin: 105px 342px 0px 0px;
+}
+button:hover{
+    background-color: rgb(151, 111, 11);
+    transition: 0.4s;
+}
+.container2{
+    display: flex;
+    width: 1248px;
+    box-shadow: 2px 2px 2px 2px grey;
+}
+.container2img{
+    display: flex;
+}
+.container2 img{
+height: 411px;
+width: 664px;
+}
+.payless{
+font-size: 44px;
+font-weight: bolder;
+}
+.textbox{
+    margin: 0px 16px;
+}
+.container3{
+    /* background-color: hotpink; */
+    display: flex;
+    margin: 74px 0px 0px 0px;
+}
+.box1{
+    display: flex;
+    flex-direction: column;
+border-radius: 7px;
+box-shadow: 2px 2px 2px 2px grey;
+
+}
+.box1 img{
+    height: 435px;
+width: 559px;
+}
+ .box1text{
+      margin: 0px 0px 0px 17px;
+} 
+.box2{
+    display: flex;
+    flex-direction: column;
+    margin: 0px 0px 0px 31px;
+    box-shadow: 2px 2px 2px 2px grey;
+    border-radius: 7px;
+
+}
+.box2 img{
+    height: 435px;
+    width: 612px;
+}
+.box2text{
+    margin: 0px 0px 0px 33px;
+}
+.box1text p{
+    font-size: 31px;
+font-weight: bolder;
+}
+.box2text p{
+font-size: 31px;
+font-weight: bolder;
+}
+.heading{
+    display: flex;
+    justify-content: center;
+margin: 55px 0px 0px 0px;
+font-size: 23px;
+}
+.card{
+    display: inline-flex;
+}
+.carditmes{
+    display: flex;
+    flex-direction: column;
+    width: 322px;
+    height: 319px;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 2px 2px 2px 2px grey;
+    margin: 0px 11px 0px 0px;
+}
+.carditmes img{
+    height: 147px;
+    width: 172px;
+}
+.container5{
+    display: flex;
+    width: 1248px;
+    box-shadow: 2px 2px 2px 2px grey;
+    margin: 89px 0px 0px 0px;
+    border-radius: 7px;
+}
+.button2{
+    display: flex;
+    /* justify-content: center; */
+    margin: 21px 342px 82px 0px;
+}
+.container6{
+    display: inline-flex;
+    margin: 70px 0px 0px 0px;
+}
+.first{
+    display: flex;
+    flex-direction: column;
+    width: 290px;
+        align-items: center;
+    /* background-color: red; */
+}
+.first li{
+    list-style: none;
+}
+.first li:hover{
+    cursor: pointer;
+    }
+.second{
+    display: flex;
+    flex-direction: column;
+    width: 290px;
+    align-items: center;
+}
+.second li{
+    list-style: none;
+}
+.second li:hover{
+cursor: pointer;
+}
+.third{
+    display: flex;
+    flex-direction: column;
+    width: 290px;
+    align-items: center;
+}
+.third li{
+    list-style: none;
+}
+.third li:hover{
+    cursor: pointer;
+    }
+.fourth{
+    /* background-color: blue; */
+    display: flex;
+    flex-direction: column;
+    width: 290px;
+    align-items: center;
+}
+.fourth li{
+    list-style: none;
+}
